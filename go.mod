@@ -1,4 +1,4 @@
-module proto
+module github.com/RabotaemActivno/protos
 
 go 1.24.0
 
